@@ -22,4 +22,17 @@ function addDigits(num) {
   } 
 };
 
+// Based on internet solution.
+function addDigitsWithMath(num) {
+  while(true) {
+    const result = (num - 1) % 9 + 1;
+    
+    if(result < 10) 
+        return result;
+    else
+        num = result;
+  } 
+};
+
+console.log(addDigitsWithMath(38));
 console.log(addDigits(38));
