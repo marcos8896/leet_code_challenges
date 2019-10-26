@@ -1,0 +1,26 @@
+{
+  "name": "leet_code_challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "198_House_Robber.js",
+  "dependencies": {
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos8896/leet_code_challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos8896/leet_code_challenges/issues"
+  },
+  "homepage": "https://github.com/marcos8896/leet_code_challenges#readme"
+}
